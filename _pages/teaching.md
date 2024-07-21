@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+## Lecturer of Record
+
+- Working with Big Data
+  - Course for the Vancouver Summer Program at UBC
+  - [GitHub page of the course](https://github.com/djaramilloc/Working-with-Big-Data-VSP-2024)
+
 ## Teaching Assistant
 
 <ul>
