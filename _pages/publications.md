@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Research
 description: 
-years: [2023, 2024]
+years: [2024, 2023]
 nav: true
 nav_order: 2
 ---
@@ -20,5 +20,8 @@ nav_order: 2
 ---
 ### Work in Progress
 
-- Long-Term Effects of Missionary Activity on Conflict: Evidence from Ghana (with Siwan Anderson)
+- The criminogenic effects of releasing offenders. Evidence from Ecuador
 - The Effect of Reduced Incarceration Length on Criminal Outcomes
+- Religious Violence in Africa (with Siwan Anderson and Sara Benetti)
+- Long-Term Effects of Missionary Activity on Conflict: Evidence from Ghana (with Siwan Anderson)
+
