@@ -9,13 +9,12 @@ nav_order: 5
 
 ## Lecturer of Record
 
-- Working with Big Data
-  - Course for the Vancouver Summer Program at UBC
-  - [GitHub page of the course](https://github.com/djaramilloc/Working-with-Big-Data-VSP-2024)
+- **[Working with Big Data](https://github.com/djaramilloc/Working-with-Big-Data-VSP-2024)** - Vancouver Summer School at UBC
+  - This course is an introduction to Data Science, taught entirely in Python. It covers the basics of computer programming, data wrangling and manipulation, data visualization, statistical analysis, and machine learning.
+
 
 ## Teaching Assistant
 
-<ul>
-  <li>Principles of Microeconomics</li>
-  <li>Data Science with Applications for Economics</li>
-</ul> 
+- ECON 323 - Quantitative Economic Modeling and Data Science (UBC) x5
+- ECON 482 - The Economic Consequences of Religion (UBC)
+- ECON 441 - The Process of Economic Development (UBC)

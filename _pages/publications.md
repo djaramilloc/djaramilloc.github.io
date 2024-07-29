@@ -18,9 +18,7 @@ nav_order: 2
 </div>
 
 ---
-<h3> Work in Progress </h3>
+### Work in Progress
 
-<ul>
-  <li><em>Long-Term Effects of Missionary Activity on Conflict: Evidence from Ghana</em> with Siwan Anderson </li>
-  <li><em>The Effect of Reduced Incarceration Length on Criminal Outcomes</em></li>
-</ul>
+- Long-Term Effects of Missionary Activity on Conflict: Evidence from Ghana (with Siwan Anderson)
+- The Effect of Reduced Incarceration Length on Criminal Outcomes
