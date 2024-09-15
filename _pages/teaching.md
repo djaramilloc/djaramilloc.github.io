@@ -11,7 +11,7 @@ nav_order: 5
 
 - **[Working with Big Data](https://github.com/djaramilloc/Working-with-Big-Data-VSP-2024)** - Vancouver Summer School at UBC
   - This course is an introduction to Data Science, taught entirely in Python. It covers the basics of computer programming, data wrangling and manipulation, data visualization, statistical analysis, and machine learning.
-  - [Student evaluations](assets/pdf/VSP_evaluation_report.pdf)
+  - [Student evaluations](/assets/pdf/VSP_evaluation_report.pdf)
 
 
 ## Teaching Assistant
