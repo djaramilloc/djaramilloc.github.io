@@ -24,7 +24,7 @@ nav_order: 2
 - Religious Violence in Africa (with Siwan Anderson and Sara Benetti)
 - Long-Term Effects of Missionary Activity on Conflict: Evidence from Ghana (with Siwan Anderson)
 - The Role of Neighborhoods and Prisons in Building Criminal Networks
-- The Effect of Reduced Incarceration Length on Criminal Outcomes
+- Reducing Sentence Disparities by Ingroup Contact
 
 ---
 ### Book Chapters
