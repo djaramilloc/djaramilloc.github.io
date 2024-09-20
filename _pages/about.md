@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Contact me:</p>
+    <p>jaramillocalderondc@gmail.com</p>
     <p>djaramil@mail.ubc.ca</p>
 
 news: false  # includes a list of news items
