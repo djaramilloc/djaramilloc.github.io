@@ -19,7 +19,7 @@ nav_order: 2
   {% endfor %}
 </div>
 
----
+
 <h3> Working Papers </h3>
 
 <div class="publications">
@@ -32,7 +32,6 @@ nav_order: 2
 ---
 ### Work in Progress
 
-- The Criminal Spillover Effects of Releasing Offenders. **Job Market Paper** (Draft coming soon!)
 - Religious Violence in Africa (with Siwan Anderson and Sara Benetti)
 - Long-Term Effects of Missionary Activity on Conflict: Evidence from Ghana (with Siwan Anderson)
 - The Role of Neighborhoods and Prisons in Building Criminal Networks
