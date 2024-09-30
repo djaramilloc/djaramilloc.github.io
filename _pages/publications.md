@@ -17,6 +17,8 @@ nav_order: 2
   {% bibliography -f jmp -q @*[year=2024]* %}
 </div>
 
+<br>
+<br>
 
 <h3> Working Papers </h3>
 
@@ -27,6 +29,9 @@ nav_order: 2
   {% endfor %}
 </div>
 
+<br>
+<br>
+
 ---
 ### Work in Progress
 
@@ -35,11 +40,15 @@ nav_order: 2
 - The Role of Neighborhoods and Prisons in Building Criminal Networks
 - Reducing Sentence Disparities by Ingroup Contact
 
+<br>
+<br>
+
 ---
 ### Book Chapters
 
 - Abuso de Poder de Mercado en Situación de Dependencia Económica. (2016). 1st. Ed., Quito, Ecuador: SCPM. (with Vicente Abril; Eduardo Esparza; and Ricardo Freire).
 
+<br>
 
 ---
 ### Pre-doctoral work (in Spanish)
