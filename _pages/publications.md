@@ -17,7 +17,6 @@ nav_order: 2
 </div>
 
 <br>
-<br>
 
 <h3> Working Papers </h3>
 
@@ -29,7 +28,6 @@ nav_order: 2
 </div>
 
 <br>
-<br>
 
 ---
 ### Work in Progress
@@ -39,7 +37,6 @@ nav_order: 2
 - The Role of Neighborhoods and Prisons in Building Criminal Networks
 - Reducing Sentence Disparities by Ingroup Contact
 
-<br>
 <br>
 
 ---
