@@ -9,6 +9,9 @@ nav_order: 2
 ---
 
 
+You can find my [research statement here](/assets/statements/DJ_research_statement.pdf).
+
+
 <!-- _pages/publications.md -->
 <h3> Job Market Paper </h3>
 
