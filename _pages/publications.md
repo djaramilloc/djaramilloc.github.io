@@ -11,15 +11,17 @@ nav_order: 2
 
 ### Working Papers
 
-- **The Spillover Effects of Prisoner Releases: Evidence from Ecuador**. [[PDF]](assets/pdf/Daniel_Jaramillo_JMP.pdf)
-- **Climate Shocks and Female Targeted Political Violence**. (with [*Siwan Anderson*](https://sites.google.com/view/siwan-anderson/home)) [[PDF]](assets/pdf/climate_and_pvtw.pdf)
-- **Gangs and Firms: Evidence from a Peace Agreement**. (with *Phillip Keefer*) [[PDF]](assets/pdf/0gangs_truce.pdf)
+- **The Spillover Effects of Prisoner Releases: Evidence from Ecuador**. [[PDF]](../assets/pdf/Daniel_Jaramillo_JMP.pdf)
+- **Climate Shocks and Female Targeted Political Violence**. (with [<u>*Siwan Anderson*</u>](https://sites.google.com/view/siwan-anderson/home)) [[PDF]](../assets/pdf/climate_and_pvtw.pdf)
+- **Gangs and Firms: Evidence from a Peace Agreement**. (with *Phillip Keefer*) [[PDF]](../assets/pdf/0gangs_truce.pdf)
+
+<br>
 
 ---
 ### Work in Progress
 
-- Religious Violence in Africa (with Siwan Anderson and Sara Benetti)
-- Long-Term Effects of Missionary Activity on Conflict (with Siwan Anderson)
+- Religious Violence in Africa (with [<u>*Siwan Anderson*</u>](https://sites.google.com/view/siwan-anderson/home) and [<u>*Sara Benetti*</u>](https://www.sarabenetti.com/))
+- Long-Term Effects of Missionary Activity on Conflict (with [<u>*Siwan Anderson*</u>](https://sites.google.com/view/siwan-anderson/home))
 - The Role of Neighborhoods and Prisons in Building Criminal Networks
 - Reducing Sentence Disparities by Ingroup Contact
 
