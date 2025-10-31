@@ -11,18 +11,18 @@ nav_order: 2
 
 ### Working Papers
 
-- The Spillover Effects of Prisoner Releases: Evidence from Ecuador. [[PDF]](../assets/pdf/Daniel_Jaramillo_JMP.pdf)
-  - Awarded second place in the 2025 IDB Young Economist Award.
-- Climate Shocks and Female Targeted Political Violence. (with [<u><i>Siwan Anderson</i></u>](https://sites.google.com/view/siwan-anderson/home)) [[PDF]](../assets/pdf/climate_and_pvtw.pdf)
-- Gangs and Firms: Evidence from a Peace Agreement. (with *Phillip Keefer*) [[PDF]](../assets/pdf/0gangs_truce.pdf)
+- [<u><b><span style="color:black;">The Spillover Effects of Prisoner Releases: Evidence from Ecuador.</span></b></u>](../assets/pdf/Daniel_Jaramillo_JMP.pdf)
+  - Second place in the 2025 IDB Young Economist Competition.
+- [<u><b><span style="color:black;">Climate Shocks and Female Targeted Political Violence.</span></b></u>](../assets/pdf/climate_and_pvtw.pdf) (with [<u><i><span style="color:black;">Siwan Anderson</span></i></u>](https://sites.google.com/view/siwan-anderson/home))
+- [<u><b><span style="color:black;">Gangs and Firms: Evidence from a Peace Agreement.</span></b></u>](../assets/pdf/0gangs_truce.pdf) (with *Phillip Keefer*) 
 
 <br>
 
 ---
 ### Work in Progress
 
-- Religious Violence in Africa (with [<u><i>Siwan Anderson</i></u>](https://sites.google.com/view/siwan-anderson/home) and [<u><i>Sara Benetti</i></u>](https://www.sarabenetti.com/))
-- Long-Term Effects of Missionary Activity on Conflict (with [<u><i>Siwan Anderson</i></u>](https://sites.google.com/view/siwan-anderson/home))
+- Religious Violence in Africa (with [<u><i><span style="color:black;">Siwan Anderson</span></i></u>](https://sites.google.com/view/siwan-anderson/home) and [<u><i><span style="color:black;">Sara Benetti</span></i></u>](https://www.sarabenetti.com/))
+- Long-Term Effects of Missionary Activity on Conflict (with [<u><i><span style="color:black;">Siwan Anderson</span></i></u>](https://sites.google.com/view/siwan-anderson/home))
 - The Role of Neighborhoods and Prisons in Building Criminal Networks
 - Reducing Sentence Disparities by Ingroup Contact
 
