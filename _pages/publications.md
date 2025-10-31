@@ -9,34 +9,17 @@ nav_order: 2
 ---
 
 
-You can find my [research statement here](/assets/statements/DJ_research_statement.pdf).
+### Working Papers
 
-
-<!-- _pages/publications.md -->
-<h3> Job Market Paper </h3>
-
-<div class="publications">
-  {% bibliography -f jmp -q @*[year=2024]* %}
-</div>
-
-<br>
-
-<h3> Working Papers </h3>
-
-<div class="publications">
-  {%- for y in page.years %}
-    <h2 class="year">{{y}}</h2>
-    {% bibliography -f papers -q @*[year={{y}}]* %}
-  {% endfor %}
-</div>
-
-<br>
+- **The Spillover Effects of Prisoner Releases: Evidence from Ecuador**. [[PDF]](assets/pdf/Daniel_Jaramillo_JMP.pdf)
+- **Climate Shocks and Female Targeted Political Violence**. (with [*Siwan Anderson*](https://sites.google.com/view/siwan-anderson/home)) [[PDF]](assets/pdf/climate_and_pvtw.pdf)
+- **Gangs and Firms: Evidence from a Peace Agreement**. (with *Phillip Keefer*) [[PDF]](assets/pdf/0gangs_truce.pdf)
 
 ---
 ### Work in Progress
 
 - Religious Violence in Africa (with Siwan Anderson and Sara Benetti)
-- Long-Term Effects of Missionary Activity on Conflict: Evidence from Ghana (with Siwan Anderson)
+- Long-Term Effects of Missionary Activity on Conflict (with Siwan Anderson)
 - The Role of Neighborhoods and Prisons in Building Criminal Networks
 - Reducing Sentence Disparities by Ingroup Contact
 
